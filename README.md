@@ -13,6 +13,16 @@ This application implements the LSB (Least Significant Bit) steganography method
 - **User-Friendly Interface**: Simple Windows Forms interface for easy operation
 - **Optimized Performance**: Direct bitmap data access for efficient processing of large images
 
+## How to run the app?
+
+```bash
+# Navigate to the project directory
+cd /path/to/SteganographyApp (replace with your own path)
+
+# Run the application
+dotnet run
+```
+
 ## Requirements
 
 - .NET 6.0 or higher
